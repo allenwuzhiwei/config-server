@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: config-server
-          image: alllenwu249/config-server:latest
+          image: allenwu1/config-server:latest
           ports:
             - containerPort: 8888
           resources:
